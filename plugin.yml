@@ -1,0 +1,11 @@
+main: tech.bobcat.Windy
+name: Windy
+version: 1.0
+author: Bobcat
+api-version: 1.14
+
+commands:
+  windy:
+    aliases: [windy]
+    description: Start a wind storm using this command
+    usage: Incorrect Format! It's /windy start to make a storm begin!
